@@ -9,8 +9,9 @@ The Purpose of this Analysis is to compare measurements between the type of scho
 ## Resources
 
 - Data Source:   [students_complete.csv](Resources/students_complete.csv)  [schools_complete.csv](Resources/schools_complete.csv) 
-- Jupyter file : [PyCitySchools_Challenge.ipynb](PyCitySchools_Challenge.ipynb)
+- Jupyter file : [PyCitySchools_Challenge.ipynb ](PyCitySchools_Challenge.ipynb)
 - Software: Jupyter Notebook Server 6.1.4, Python 3.7.9 
+- Jypyter HTML result files:  [PyCitySchools_Challenge.html](PyCitySchools_Challenge.html) 
 
 ## School District Results
 
@@ -89,4 +90,4 @@ The Purpose of this Analysis is to compare measurements between the type of scho
 - Overall Math and Passing dropped 1% (461/39,170 = 1%) which accounted for the dip in the sample.
 - The Budged was unaffected as it was dependent on student headcount, as those students were counted in the population.
 - Thomas High School itself saw approximate a increase of just over 25% less students passing (accounting for 1 out of 4 grade levels not counted in the the study, 461/1635 = 28.2%)
-- Without the data from Thomas High School, it still statistically shows small to medium sized school outperform larger schools as it supports the Charter school model which is smaller class sizes are conducive to students Passing exams.
+- Without the data from Thomas High School, it still statistically shows small to medium sized school outperform larger schools as it supports the Charter school model which is smaller class sizes are conducive to excel in Passing exams.
