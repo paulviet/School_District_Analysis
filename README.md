@@ -19,17 +19,17 @@ The Purpose of this Analysis is to compare measurements between the type of scho
 - The budget for Thomas High School 9th graders was not affect by the scoring 
 - The Report measured 15 school Districts with an allocation of 39,170 students with an average  expenditure of $629.30 per a student.
 
- |      | Total Schools | Total Students | Total Budget   | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
- | ---- | ------------- | -------------- | -------------- | ------------------ | --------------------- | -------------- | ----------------- | ----------------- |
- | 0    | 15            | 39,170         | $24,649,428.00 | 78.9               | 81.9                  | 74.8           | 85.7              | 64.9              |
+|      | Total Schools | Total Students | Total Budget   | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
+| ---- | ------------- | -------------- | -------------- | ------------------ | --------------------- | -------------- | ----------------- | ----------------- |
+| 0    | 15            | 39,170         | $24,649,428.00 | 78.9               | 81.9                  | 74.8           | 85.7              | 64.9              |
 
- |                           | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
- | ------------------------- | ------------------ | --------------------- | -------------- | ----------------- | ----------------- |
- | Student Population Ranges |                    |                       |                |                   |                   |
- | Small 200-1399            | 83.8               | 83.9                  | 94             | 96                | 90                |
- | Medium 1400-2599          | 83.3               | 83.9                  | 94             | 97                | 91                |
- | Large 2600-3799           | 76.8               | 81.0                  | 67             | 80                | 54                |
- | X-Large 3800-5000         | 77.1               | 80.9                  | 66             | 81                | 54                |
+|                           | Average Math Score | Average Reading Score | % Passing Math | % Passing Reading | % Overall Passing |
+| ------------------------- | ------------------ | --------------------- | -------------- | ----------------- | ----------------- |
+| Student Population Ranges |                    |                       |                |                   |                   |
+| Small 200-1399            | 83.8               | 83.9                  | 94             | 96                | 90                |
+| Medium 1400-2599          | 83.3               | 83.9                  | 94             | 97                | 91                |
+| Large 2600-3799           | 76.8               | 81.0                  | 67             | 80                | 54                |
+| X-Large 3800-5000         | 77.1               | 80.9                  | 66             | 81                | 54                |
 
 - Smaller and Medium schools tended to outperform Larger schools in general in both individual and combined subjects in regards to passing, however their averages scores were very close. This suggested that there is a huge deviation from those students attending smaller schools who had excellent grades to above passing and fewer whom were at or below the failing mark
 
@@ -85,4 +85,8 @@ The Purpose of this Analysis is to compare measurements between the type of scho
 
   
 
-- There is a statement summarizing four major changes to the school district analysis after reading and math scores have been replaced **(5 pt)**.
+- Major changes that were affected with the exclusion of the test data from , 461 student test data entire from the 9th grade class was excluded from the evaluation
+- Overall Math and Passing dropped 1% (461/39,170 = 1%) which accounted for the dip in the sample.
+- The Budged was unaffected as it was dependent on student headcount, as those students were counted in the population.
+- Thomas High School itself saw approximate a increase of just over 25% less students passing (accounting for 1 out of 4 grade levels not counted in the the study, 461/1635 = 28.2%)
+- Without the data from Thomas High School, it still statistically shows small to medium sized school outperform larger schools as it supports the Charter school model which is smaller class sizes are conducive to students Passing exams.
